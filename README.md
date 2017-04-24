@@ -2,7 +2,7 @@
 
 ## Master Thesis: Sicherheitskonzepte und Evaluation dezentraler Dateisynchronisationssysteme am Beispiel »brig«
 
-Masterarbeit zum Open--Source--Projekt »brig«. [masterthesis.pdf](https://github.com/qitta/university/masterthesis.pdf)
+Masterarbeit zum Open--Source--Projekt »brig«. [masterthesis.pdf](masterthesis.pdf)
 
 
 ## Bachelor Thesis: Algorithmik und Evaluation des Filmmetadaten Such- und Analysesystems »libhugin«
